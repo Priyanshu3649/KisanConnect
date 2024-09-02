@@ -1,4 +1,4 @@
-package com.example.kisanconnect.viewmodel;
+package com.example.kisanconnect.ui.theme.viewmodel;
 
 
 import android.app.Application;

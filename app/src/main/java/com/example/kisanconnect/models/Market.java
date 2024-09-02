@@ -1,16 +1,18 @@
-package com.example.kisanconnect.models;
-
+package com.example.kisanconnect.model;
 
 public class Market {
-
+    private int id;
     private String name;
     private String location;
-    private String distance;
+    private double distance;
 
-    public Market(String name, String location, String distance) {
-        this.name = name;
-        this.location = location;
-        this.distance = distance;
+    // Getters and Setters
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {
@@ -29,11 +31,11 @@ public class Market {
         this.location = location;
     }
 
-    public String getDistance() {
+    public double getDistance() {
         return distance;
     }
 
-    public void setDistance(String distance) {
+    public void setDistance(double distance) {
         this.distance = distance;
     }
 }

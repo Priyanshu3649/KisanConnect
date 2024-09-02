@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729260915219",
+    "project_id": "farmapp-1d71d",
+    "storage_bucket": "farmapp-1d71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729260915219:android:bc5eb6f5412532a8389de6",
+        "android_client_info": {
+          "package_name": "com.example.farmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpsslO1FCGrHXIWBY9QJ0jP6z8X1sL50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729260915219:android:1a2e238bb8929926389de6",
+        "android_client_info": {
+          "package_name": "com.example.kisanconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpsslO1FCGrHXIWBY9QJ0jP6z8X1sL50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
